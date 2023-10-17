@@ -145,4 +145,4 @@ $duration
 # Authors and Reference
 
 * Jingyi Zhang, Nolan A. Wages, and Ruitao Lin
-* Zhang, J., Wages, N. A., and Lin, R. (2023) “SFU: Surface-Free Utility-Based Design for Dose Optimization in Cancer Drug-Combination Trials.” Statistics in Biosciences, revision submitted to journal.
+* Zhang, J., Wages, N. A., and Lin, R. (2023) “SFU: Surface-Free Utility-Based Design for Dose Optimization in Cancer Drug-Combination Trials.” Revision submitted to journal.
